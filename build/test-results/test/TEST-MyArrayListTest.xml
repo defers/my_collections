@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MyArrayListTest" tests="20" skipped="0" failures="0" errors="0" timestamp="2023-01-15T17:20:05" hostname="MSI" time="0.011">
+  <properties/>
+  <testcase name="shouldReturnSize2WhenRemoved1ElementByIndex" classname="MyArrayListTest" time="0.002"/>
+  <testcase name="shouldReturnSize2WhenRemoved1Element" classname="MyArrayListTest" time="0.0"/>
+  <testcase name="shouldReturnTrueWhenisEmpty" classname="MyArrayListTest" time="0.0"/>
+  <testcase name="shouldFillArrayWithTwoElements" classname="MyArrayListTest" time="0.002"/>
+  <testcase name="shouldAddElementInSecondPosition" classname="MyArrayListTest" time="0.0"/>
+  <testcase name="shouldReturnFalseIfNotContainsElement" classname="MyArrayListTest" time="0.001"/>
+  <testcase name="shouldReturnMinusOneWhenObjectIsNotInList" classname="MyArrayListTest" time="0.0"/>
+  <testcase name="shouldReturnTrueIfContainsElement" classname="MyArrayListTest" time="0.0"/>
+  <testcase name="shouldReturnSize0WhenCleared" classname="MyArrayListTest" time="0.0"/>
+  <testcase name="shouldThrowIndexOutOfBoundsException" classname="MyArrayListTest" time="0.0"/>
+  <testcase name="get" classname="MyArrayListTest" time="0.0"/>
+  <testcase name="set" classname="MyArrayListTest" time="0.0"/>
+  <testcase name="shouldReturnIndexOfElement" classname="MyArrayListTest" time="0.0"/>
+  <testcase name="shouldReturnEmptyArray" classname="MyArrayListTest" time="0.0"/>
+  <testcase name="shouldReturnSize3WhenAdded3Elements" classname="MyArrayListTest" time="0.0"/>
+  <testcase name="shouldReturnArrayWithTwoElements" classname="MyArrayListTest" time="0.001"/>
+  <testcase name="shouldReturnSize100WhenAdded100Elements" classname="MyArrayListTest" time="0.0"/>
+  <testcase name="shouldReturnSizeNotZeroWhenArrayIsNotEmpty" classname="MyArrayListTest" time="0.0"/>
+  <testcase name="shouldReturnFalseWhenNotIsEmpty" classname="MyArrayListTest" time="0.0"/>
+  <testcase name="shouldReturnSize0WhenArrayIsEmpty" classname="MyArrayListTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

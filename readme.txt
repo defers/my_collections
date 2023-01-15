@@ -1,0 +1,1 @@
+Реализовать ArrayList и LinkedList аналогично существующим с стандартной Collections
